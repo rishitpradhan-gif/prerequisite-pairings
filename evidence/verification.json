@@ -1,0 +1,23 @@
+{
+  "status": "passed",
+  "quotient_state_and_play_counts": "checked on every universally legal instance",
+  "exhaustive": [
+    {
+      "vertices": 2,
+      "cases": 2,
+      "universally_legal": 2
+    },
+    {
+      "vertices": 4,
+      "cases": 120,
+      "universally_legal": 46
+    },
+    {
+      "vertices": 6,
+      "cases": 72360,
+      "universally_legal": 5418
+    }
+  ],
+  "total_cases": 72482,
+  "scope": "All naturally labelled posets on 2,4,6 vertices and all perfect matchings; every finite poset admits a natural labelling."
+}
