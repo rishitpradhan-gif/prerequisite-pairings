@@ -1,5 +1,7 @@
 # Prerequisite Pairings
 
+**[Download & run locally](LOCAL.md)** — a short guide and ready-to-run ZIP.
+
 **When does a forced paired reply remain legal under arbitrary prerequisites?**
 
 This project gives an exact answer for every finite prerequisite poset: the two endpoints of each pair must have the same set of external predecessor blocks. A global condition over every possible play reduces to a polynomial local test.
